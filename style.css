@@ -1,0 +1,98 @@
+/* CSS */
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url('/imgs/pexels-jill-burrow-6387866.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 35px;
+}
+
+#bg-1{
+    background-color: #f5ebe0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    /* margin-top: 10px; */
+}
+
+#myimage{
+    border-radius: 25%;
+    margin-top: 50px;
+    margin: auto;
+    height: 400px;
+    display: block;
+
+}
+
+.row{
+    /* margin-top: 50px; */
+}
+
+.item-1{
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+#bdr1{
+    border-bottom: 1px solid #2f3e46;
+    margin-top: 20px;
+}
+
+#myvideo{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+
+
+.myfooter a{
+    /* margin-left: 20%; */
+    margin: auto;
+    /* padding :0 0 0 100px; */
+    padding-bottom: 20px;
+    float: left;
+}
+
+#contact-1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 35px;
+    color: #D8FFD6;
+}
+
+.myfooter{
+    background-color: #2f3e46;
+}
+
+i{
+    padding: 5px;
+}
+
+
+
+#contact-me a:hover{
+    /* background-color: red; */
+    color: #90e0ef;
+}
+
+#projects {
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#projects h2{
+    font-family: Alumni Sans Inline One;
+    color: #03071e;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#projects h2:hover{
+    color: #f95738;
+}
+
